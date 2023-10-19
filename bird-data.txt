@@ -1,0 +1,4 @@
+22/12/2022  Wood Pigeon     Columba palumbus        0004
+22/12/2022  Stock Dove      Columba oenas           0002
+22/12/2022  Dunnock         Prunella modularis      0011
+22/12/2022  Great Tit       Parus major             0002
